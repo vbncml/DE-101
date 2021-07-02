@@ -1,2 +1,4 @@
 # DE-101
-Datalearn course
+Datalearn DE course
+
+This repo contains hw exercises for DE-101 course. 
